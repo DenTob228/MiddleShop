@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="MiddleShop/MiddleShop.vcxproj" />
+  <Project Path="MiddleShop/MiddleShop.vcxproj" Id="b22bcac4-5f1b-4d81-8a5f-721e164f332c" />
 </Solution>
