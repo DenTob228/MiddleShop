@@ -64,3 +64,14 @@ void ShowStorage(int mode)
 		system("pause");
 	}
 }
+
+void AddProduct()
+{
+	std::wstring chooseId, chooseCount, choose;
+	int id = 0;
+	size_t cout = 0;
+	while (true)
+	{
+
+	}
+}
